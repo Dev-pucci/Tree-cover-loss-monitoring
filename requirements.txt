@@ -1,0 +1,8 @@
+numpy
+pandas
+onnxruntime
+torch
+torchvision  # Include if using image processing
+matplotlib
+seaborn
+plotly
